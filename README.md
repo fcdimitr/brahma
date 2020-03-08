@@ -1,4 +1,4 @@
-ROSALIND builds individual, dependable data platforms for biomedical researchers and fosters decentralized, dynamic networks of data resources and data scientists, in co-existence with centralized data archives and services.
+ROSALIND builds individual, dependable data platforms for biomedical researchers and fosters decentralized, dynamic networks of data resources and data scientists, in co-existence with centralized data archives and services. See [ROSALIND](https://github.com/fcdimitr/rosalind) open-source project for source code.
 
 Our mission is to empower researchers with dependable, self-governed data platforms that 
 
